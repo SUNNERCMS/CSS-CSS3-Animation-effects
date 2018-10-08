@@ -22,7 +22,8 @@ spread	可选。阴影的尺寸。
 color	可选。阴影的颜色。
 inset	可选。将外部阴影 (outset) 改为内部阴影。    
 渐变色设置：  
-background: linear-gradient(direction, color-stop1, color-stop2, ...);  
+background: linear-gradient(direction, color-stop1, color-stop2, ...);   
+衬线字体/非衬线字体
 
 
  
