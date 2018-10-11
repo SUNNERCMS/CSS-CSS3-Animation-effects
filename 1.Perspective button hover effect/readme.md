@@ -69,24 +69,24 @@ ul li:nth-child(even):hover {
 #### 涉及知识点：  
 1.颜色设置：background: cornsilk;英文翻译是康丝兰等价于background: #FFF8DC;  
 2.新接触的vh单位  
-&nbsp; 说明：  相对于视口的高度。视口被均分为100单位的vh  
-示例代码：  
-h1 {font-size: 8vh; }  
-如果视口的高度是200mm，那么上述代码中h1元素的字号将为16mm，即(8x200)/100
+&nbsp;&nbsp; 说明：  相对于视口的高度。视口被均分为100单位的vh  
+&nbsp;&nbsp; 示例代码：  
+&nbsp;&nbsp; h1 {font-size: 8vh; }  
+&nbsp;&nbsp; 如果视口的高度是200mm，那么上述代码中h1元素的字号将为16mm，即(8x200)/100
 3.box-shadow 向框添加一个或多个阴影。  
-box-shadow: h-shadow v-shadow blur spread color inset;   
-h-shadow	必需。水平阴影的位置。允许负值。  
-v-shadow	必需。垂直阴影的位置。允许负值。  
-blur	可选。模糊距离。  
-spread	可选。阴影的尺寸。	  
-color	可选。阴影的颜色。  
-inset	可选。将外部阴影 (outset) 改为内部阴影。   
+&nbsp;&nbsp; box-shadow: h-shadow v-shadow blur spread color inset;   
+&nbsp;&nbsp; h-shadow	必需。水平阴影的位置。允许负值。  
+&nbsp;&nbsp; v-shadow	必需。垂直阴影的位置。允许负值。  
+&nbsp;&nbsp; blur	可选。模糊距离。  
+&nbsp;&nbsp; spread	可选。阴影的尺寸。	  
+&nbsp;&nbsp; color	可选。阴影的颜色。  
+&nbsp;&nbsp; inset	可选。将外部阴影 (outset) 改为内部阴影。   
 4.rgb和rgba  
-rgb(0,0,0):黑色  
-rgb(255,255,255):白色  
-rgba(0,0,0,.2):透明度0-1-->逐渐不透明，为1时不透明，为0时全透明  
+&nbsp;&nbsp; rgb(0,0,0):黑色  
+&nbsp;&nbsp; rgb(255,255,255):白色  
+&nbsp;&nbsp; rgba(0,0,0,.2):透明度0-1-->逐渐不透明，为1时不透明，为0时全透明  
 5.渐变色设置：  
-background: linear-gradient(direction, color-stop1, color-stop2, ...);   
+&nbsp;&nbsp; background: linear-gradient(direction, color-stop1, color-stop2, ...);   
 6.衬线字体(serif)/非衬线字体(sans serif)的区别  
 （1）serif 是有衬线字体，意思是在字的笔画开始、结束的地方有额外的装饰，而且笔画的粗细会有所不同。相反的，sans serif 就没有这些额外的装饰，而且笔画的粗细差不多。  
 （2）serif 字体容易识别，它强调了每个字母笔画的开始和结束，因此易读性比较高，sans serif 则比较醒目。在中文阅读的情况下，适合使用 serif 字体(如宋体)进行排版，易于换行阅读的识别性，避免发生行间的阅读错误。  
