@@ -16,12 +16,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: cornsilk; // background: cornsilk;康丝兰 background: #FFF8DC;
+    background: cornsilk; 
 }
 
 ul {
     padding: 0;
-    list-style-type: none;
+    list-style-type: none; /*去掉无序列表的默认样式*/
 }
 
 ul li {
@@ -65,10 +65,10 @@ ul li:nth-child(even):hover {
 }
 
 ```
-
-新接触的vh单位
-说明：  
-相对于视口的高度。视口被均分为100单位的vh  
+- 涉及知识点：
+1.颜色设置：background: cornsilk;英文翻译是康丝兰等价于background: #FFF8DC;  
+2.新接触的vh单位  
+说明：  相对于视口的高度。视口被均分为100单位的vh  
 示例代码：  
 h1 {
     font-size: 8vh;  
