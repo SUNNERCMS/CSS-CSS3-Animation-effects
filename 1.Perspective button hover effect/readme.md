@@ -52,7 +52,7 @@ ul li:nth-child(even) {
     background: linear-gradient(to left, orange, tomato);
     text-align: right;
     padding-right: 10%;
-    transform: perspective(500px) rotateY(-45deg);
+    transform: perspective(500px) rotateY(-45deg);/*距离视图的距离，参数越大说明距离视图越远，看着就越小*/
 }
 
 ul li:nth-child(odd):hover {  /*鼠标悬停时的效果*/
