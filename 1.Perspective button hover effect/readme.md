@@ -69,7 +69,7 @@ ul li:nth-child(even):hover {
 #### 涉及知识点：  
 1.颜色设置：background: cornsilk;英文翻译是康丝兰等价于background: #FFF8DC;  
 2.新接触的vh单位  
-  说明：  相对于视口的高度。视口被均分为100单位的vh  
+&nbsp&nbsp说明：  相对于视口的高度。视口被均分为100单位的vh  
 示例代码：  
 h1 {font-size: 8vh; }  
 如果视口的高度是200mm，那么上述代码中h1元素的字号将为16mm，即(8x200)/100
