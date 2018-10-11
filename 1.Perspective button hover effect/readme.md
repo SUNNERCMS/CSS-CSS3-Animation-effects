@@ -16,7 +16,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: cornsilk;
+    background: cornsilk; // background: cornsilk;康丝兰 background: #FFF8DC;
 }
 
 ul {
@@ -65,8 +65,7 @@ ul li:nth-child(even):hover {
 }
 
 ```
- background: cornsilk;康丝兰
-  background: #FFF8DC;
+
 新接触的vh单位
 说明：  
 相对于视口的高度。视口被均分为100单位的vh  
