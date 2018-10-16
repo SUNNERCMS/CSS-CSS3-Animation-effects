@@ -4,7 +4,7 @@
 > `<figure>` 标签规定独立的流内容（图像、图表、照片、代码等等）。figure 元素的内容应该与主内容相关，但如果被删除，则不应对文档流产生影响。  
 > `<figcaption>` 标签为 `<figure>` 元素定义标题。  
 > `<figcaption>` 元素应该被置于 `<figure>` 元素的第一个或最后一个子元素的位置。  
-> 注意：当给figure中的image图片做标题时，使用figcaption要比使用p标签的行间距要小，显示效果变现的更加紧凑。  
+> 注意：当给figure中的image图片做标题时，使用figcaption要比使用p标签的行间距要小，显示效果变现的更加紧凑. 
 2.animation(动画)
 > animation: name/duration/timing-function/delay/iteration-count/direction/fill-mode/play-state;
 > animation-name	指定要绑定到选择器的关键帧的名称  
