@@ -23,7 +23,7 @@
 &nbsp;&nbsp;（3）alternate:动画在奇数次（1、3、5...）正向播放，在偶数次（2、4、6...）反向播放。  
 &nbsp;&nbsp;（4）alternate-reverse:动画在奇数次（1、3、5...）反向播放，在偶数次（2、4、6...）正向播放。   
 `animation-fill-mode`	规定当动画不播放时（当动画完成时，或当动画有一个延迟未开始播放时），要应用到元素的样式。  
-&nbsp;&nbsp; forwards：在动画结束后（由 animation-iteration-count 决定），动画将应用该属性值。也即是：停留在动画结束时的位置  
+&nbsp;&nbsp; (1)forwards：在动画结束后（由 animation-iteration-count 决定），动画将应用该属性值。也即是：停留在动画结束时的位置  
 `animation-play-state`	指定动画是否正在运行或已暂停。  
-&nbsp;&nbsp; paused：指定暂停动画  
-&nbsp;&nbsp; running：指定正在运行的动画
+&nbsp;&nbsp; (1)paused：指定暂停动画  
+&nbsp;&nbsp; (2)running：指定正在运行的动画
