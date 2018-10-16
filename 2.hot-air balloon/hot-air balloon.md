@@ -6,7 +6,12 @@
 `<figcaption>` 元素应该被置于 `<figure>` 元素的第一个或最后一个子元素的位置。  
 注意：当给figure中的image图片做标题时，使用figcaption要比使用p标签的行间距要小，显示效果变现的更加紧凑.
 - 2.animation(动画):animation: name/duration/timing-function/delay/iteration-count/direction/fill-mode/play-state;
-animation-name	指定要绑定到选择器的关键帧的名称  
+animation-name	指定要绑定到选择器的关键帧的名称    
+*linear	动画从头到尾的速度是相同的。  
+ease	默认。动画以低速开始，然后加快，在结束前变慢。	
+ease-in	动画以低速开始。	
+ease-out	动画以低速结束。	
+ease-in-out	动画以低速开始和结束。*
 animation-duration	动画指定需要多少秒或毫秒完成  
 animation-timing-function	设置动画将如何完成一个周期  
 animation-delay	设置动画在启动前的延迟间隔。  
