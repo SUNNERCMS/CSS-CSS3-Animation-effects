@@ -72,7 +72,7 @@ ul li:nth-child(even):hover {
 &nbsp;&nbsp; 说明：  相对于视口的高度。视口被均分为100单位的vh  
 &nbsp;&nbsp; 示例代码：  
 &nbsp;&nbsp; h1 {font-size: 8vh; }  
-&nbsp;&nbsp; 如果视口的高度是200mm，那么上述代码中h1元素的字号将为16mm，即(8x200)/100
+&nbsp;&nbsp; 如果视口的高度是200mm，那么上述代码中h1元素的字号将为16mm，即(8x200)/100   
 3.box-shadow 向框添加一个或多个阴影。  
 &nbsp;&nbsp; box-shadow: h-shadow v-shadow blur spread color inset;   
 &nbsp;&nbsp; h-shadow	必需。水平阴影的位置。允许负值。  
