@@ -81,7 +81,7 @@ ul li:nth-child(even):hover {
 &nbsp;&nbsp; spread	可选。阴影的尺寸。(扩展半径的大小）  
 &nbsp;&nbsp; color	可选。阴影的颜色。  
 &nbsp;&nbsp; inset	可选。默认阴影在边框外。使用 inset 后，阴影在边框内（即使是透明边框），背景之上内容之下。  
-声明多个shadow时，用逗号将shadow隔开。
+声明多个shadow时，用逗号将shadow隔开。  
 4.rgb和rgba  
 &nbsp;&nbsp; rgb(0,0,0):黑色  
 &nbsp;&nbsp; rgb(255,255,255):白色  
