@@ -77,10 +77,11 @@ ul li:nth-child(even):hover {
 &nbsp;&nbsp; box-shadow: h-shadow v-shadow blur spread color inset;   
 &nbsp;&nbsp; h-shadow	必需。水平阴影的位置。允许负值。  
 &nbsp;&nbsp; v-shadow	必需。垂直阴影的位置。允许负值。  
-&nbsp;&nbsp; blur	可选。模糊距离。  
-&nbsp;&nbsp; spread	可选。阴影的尺寸。	  
+&nbsp;&nbsp; blur	可选。模糊距离。(模糊半径的大小)   
+&nbsp;&nbsp; spread	可选。阴影的尺寸。(扩展半径的大小）  
 &nbsp;&nbsp; color	可选。阴影的颜色。  
-&nbsp;&nbsp; inset	可选。将外部阴影 (outset) 改为内部阴影。   
+&nbsp;&nbsp; inset	可选。默认阴影在边框外。使用 inset 后，阴影在边框内（即使是透明边框），背景之上内容之下。  
+声明多个shadow时，用逗号将shadow隔开。
 4.rgb和rgba  
 &nbsp;&nbsp; rgb(0,0,0):黑色  
 &nbsp;&nbsp; rgb(255,255,255):白色  
