@@ -3,7 +3,7 @@
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/2%E7%83%AD%E6%B0%94%E7%90%83.gif) 
 #### 代码部分：
 ```html
-<div class="balloon">
+<figure class="balloon">
   <div class="envelope">
     <span></span>
     <span></span>
@@ -14,7 +14,7 @@
     <span></span>
     <span></span>
   </div>
-</div>
+</figure>
 ```
 ```css
 body{
