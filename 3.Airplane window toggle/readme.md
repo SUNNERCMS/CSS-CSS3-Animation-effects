@@ -8,4 +8,5 @@
 &nbsp;&nbsp;参数：  
 &nbsp;&nbsp;（1）url('URL')	指向图像的路径。  
 &nbsp;&nbsp;（2）none	默认值。不显示背景图像。  
-&nbsp;&nbsp;（3）inherit	规定应该从父元素继承 background-image 属性的设置。
+&nbsp;&nbsp;（3）inherit	规定应该从父元素继承 background-image 属性的设置。  
+&nbsp;&nbsp;常和[ background-repeat](http://www.w3school.com.cn/cssref/pr_background-repeat.asp)设置是否及如何重复背景图像。[background-position](http://www.w3school.com.cn/cssref/pr_background-position.asp)设置背景图像的起始位置。[background-attachment](http://www.w3school.com.cn/cssref/pr_background-attachment.asp)设置背景图像是否固定或者随着页面的其余部分滚动。
