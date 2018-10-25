@@ -12,5 +12,5 @@
 &nbsp;&nbsp;补充：常和[ background-repeat](http://www.w3school.com.cn/cssref/pr_background-repeat.asp)设置是否及如何重复背景图像。[background-position](http://www.w3school.com.cn/cssref/pr_background-position.asp)设置背景图像的起始位置。[background-attachment](http://www.w3school.com.cn/cssref/pr_background-attachment.asp)设置背景图像是否固定或者随着页面的其余部分滚动。  
 - 2.[radial-gradient](http://www.runoob.com/cssref/func-radial-gradient.html)用径向渐变创建 "图像"。  
 &nbsp;&nbsp;background-image:  radial-gradient(orange, orangered);由中心点向外定义，由圆心向外分别是橘色，橘红色；  
--3.`filter: opacity(0);`  
-filter 属性定义了元素(通常是<img>)的可视效果(例如：模糊与饱和度)。
+- 3. filter 属性定义了元素(通常是<img>)的可视效果(例如：模糊与饱和度)。  
+`filter: opacity(0);` 
