@@ -86,7 +86,7 @@ ul li:nth-child(even):hover {
 &nbsp;&nbsp; rgb(0,0,0):黑色  
 &nbsp;&nbsp; rgb(255,255,255):白色  
 &nbsp;&nbsp; rgba(0,0,0,.2):透明度0-1-->逐渐不透明，为1时不透明，为0时全透明  
-5.渐变色设置：  
+5.线性渐变色设置：  
 &nbsp;&nbsp; background: linear-gradient(direction, color-stop1, color-stop2, ...);   
 6.衬线字体(serif)/非衬线字体(sans serif)的区别  
 （1）serif 是有衬线字体，意思是在字的笔画开始、结束的地方有额外的装饰，而且笔画的粗细会有所不同。相反的，sans serif 就没有这些额外的装饰，而且笔画的粗细差不多。  
