@@ -28,3 +28,4 @@
 &nbsp;&nbsp;background-image:  radial-gradient(orange, orangered);由中心点向外定义，由圆心向外分别是橘色，橘红色；  
 - 3.filter 属性定义了元素(通常是<img>)的可视效果(例如：模糊与饱和度)。  
 `filter: opacity(0%);` :用 opacity(0%) 可以使元素在不可见的状态下仍可交互,该函数与已有的opacity属性很相似，不同之处在于通过filter，一些浏览器为了提升性能会提供硬件加速。filter: opacity(0%):值为0%则是完全透明，值为100%则图像无变化;opacity属性：opacity:0;完全透明(0-1:完全透明到不透明）
+- 4.[transtion](http://www.w3school.com.cn/cssref/pr_transition.asp)给指定属性增加过渡效果；
