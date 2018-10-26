@@ -1,5 +1,6 @@
 ## 效果展示：
 #### 代码部分：
+> 当舷窗打开时，.curtain 要向上移动，并且指示灯亮绿色光：
 ```CSS
 .window .curtain {
     transition: 0.5s ease-in-out;
