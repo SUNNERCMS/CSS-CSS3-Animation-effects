@@ -1,5 +1,18 @@
 ## 效果展示：
 #### 代码部分：
+```CSS
+.window .curtain {
+    transition: 0.5s ease-in-out;
+}
+
+.toggle:checked ~ .window .curtain {
+    top: -90%;
+}
+
+.toggle:checked ~ .window .curtain::after {
+    background-image: radial-gradient(lightgreen, limegreen);
+}
+```
 #### 涉及知识点：
 - 1.[background-image](http://www.w3school.com.cn/cssref/pr_background-image.asp) 属性为元素设置背景图像。  
 &nbsp;&nbsp; 元素的背景占据了元素的全部尺寸，包括内边距，但不包括外边距。  
