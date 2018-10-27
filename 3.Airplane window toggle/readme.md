@@ -14,6 +14,17 @@
     background-image: radial-gradient(lightgreen, limegreen);
 }
 ```
+```CSS
+.toggle{ /*input 的开关控制：窗帘打开或关上*/
+  z-index:3;/*将input的点击层放在在最上面，放在舷窗的上面，这样点击时，input才能被选中*/
+  cursor:pointer;
+  filter:opacity(0%);
+}
+/*窗户的盖（窗帘） 设置窗帘样式，和窗口尺寸一样，但不拉到底*/
+.window .curtain{
+  z-index:2;/*舷窗应该在窗外白云之上，但是在input之下，这样可以做到既能点击产生动作，又能覆盖住窗户中的白云*/
+}
+```
 #### 涉及知识点：
 - 1.[background-image](http://www.w3school.com.cn/cssref/pr_background-image.asp) 属性为元素设置背景图像。  
 &nbsp;&nbsp; 元素的背景占据了元素的全部尺寸，包括内边距，但不包括外边距。  
