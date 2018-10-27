@@ -1,4 +1,5 @@
 ## 效果展示：
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/3.airplane%20window%20toggle.gif)
 #### 代码部分：
 ```html
 <!--在 dom 中增加表示云朵的 .clouds 元素，其中的 5 个 <span> 子元素分别表示 1 朵白云： -->
