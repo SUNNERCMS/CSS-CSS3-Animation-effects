@@ -18,6 +18,7 @@ body{
 *{
   box-sizing:border-box;
 }
+/*球案*/
 .court{
   position:relative;
   width:30em;/*浏览器默认值是16px,这里的宽是320px*/
