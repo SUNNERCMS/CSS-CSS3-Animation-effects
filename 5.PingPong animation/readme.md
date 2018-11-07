@@ -1,5 +1,12 @@
 ## 演示效果
 #### 代码部分：
+```html
+<div class="court">
+  <div class="left-paddle"></div>
+  <div class="ball"></div>
+  <div class="right-paddle"></div>
+</div>
+```
 #### 涉及知识点：
 1.animation动画的常用参数设置  
 (1)动画的名字  
