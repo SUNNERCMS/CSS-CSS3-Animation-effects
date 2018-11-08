@@ -9,3 +9,4 @@
 [4.滑动转换开关](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/tree/master/4.Sleek%20sliding%20toggle%20checkbox)  
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/4.%E6%BB%91%E5%8A%A8%E5%88%87%E6%8D%A2%E5%BC%80%E5%85%B3.gif)  
 [5.打乒乓]()
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/5.%E4%B9%92%E4%B9%93.gif)  
