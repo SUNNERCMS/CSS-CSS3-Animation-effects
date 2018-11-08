@@ -1,5 +1,5 @@
 ## 演示效果  
-
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/5.%E4%B9%92%E4%B9%93.gif)  
 #### 代码部分：
 ```html
 <div class="court">
@@ -78,7 +78,8 @@ body{
 1.animation动画的常用参数设置  
 (1)动画的名字  
 (2)动画完成所需要的时间  
-(3)动画的速度曲线  
+(3)动画的速度曲线:animation-timing-function:value;  
+&nbsp;&nbsp; value值可以是：linear动画从头到尾速度相同；默认：（低速->加快->低速）；ease-in-out：动画以低速开始和结束；  
 (4)动画是否延时开始，可以设置延时的时间  
-(5)动画的播放次数  
-(6)是否轮流反向播放动画  
+(5)动画的播放次数：n动画播放次数的数值；infinite：无限次播放；  
+(6)是否轮流反向播放动画：默认值normal；alternate:轮流反向播放；
