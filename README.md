@@ -11,6 +11,7 @@
 [5.打乒乓](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/tree/master/5.PingPong%20animation)  
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/5.%E4%B9%92%E4%B9%93.gif)  
 [6.]()  
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/6.%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)
 [7.]()    
 [8.]()
 
