@@ -1,4 +1,5 @@
 ## 展示效果
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/6.%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)
 #### 代码部分：(使用了SCSS语法，和compass书写框架)
 ```HTML
 <div class="loader">
