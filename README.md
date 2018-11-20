@@ -10,8 +10,8 @@
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/4.%E6%BB%91%E5%8A%A8%E5%88%87%E6%8D%A2%E5%BC%80%E5%85%B3.gif)  
 [5.打乒乓](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/tree/master/5.PingPong%20animation)  
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/5.%E4%B9%92%E4%B9%93.gif)  
-[6.]()  
-![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/6.%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)
+[6.](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/6.Load%20progress%20bar/readme.md)   
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/6.%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)  
 [7.]()    
 [8.]()
 
