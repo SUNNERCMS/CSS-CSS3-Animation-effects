@@ -13,6 +13,8 @@
 [6.进度条加载效果](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/6.Load%20progress%20bar/readme.md)   
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/6.%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)  
 [7.]()    
+[8.]()  
+[9.]()    
 [8.]()
 
 
