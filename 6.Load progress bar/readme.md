@@ -141,7 +141,7 @@ html, body {
 }
 
 body {
-  background: radial-gradient(red 10%,#444);
+  background: radial-gradient(red 10%,#444);//北京绚丽红
 }
 
 .loader {
@@ -234,6 +234,7 @@ body {
 ### 代码解析及相关知识点： 
 主要应用了SCSS语法和compass中的CSS3核心模块和layout模块  
 （1）[compass中的CSS3核心模块](http://compass-style.org/reference/compass/css3/border_radius/)  
+（2）[compass中的layout核心模块](http://compass-style.org/reference/compass/layout/stretching/)
 
 
 
