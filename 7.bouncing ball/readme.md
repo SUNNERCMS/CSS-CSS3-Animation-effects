@@ -1,5 +1,5 @@
 ### 动画效果：
-
+![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/7.bouncing.gif)
 ### 代码部分：
 ```HTML
   <div class="top"></div>
