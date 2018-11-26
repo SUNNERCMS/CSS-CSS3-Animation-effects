@@ -231,4 +231,9 @@ body {
   }
 }
 ```
-### 代码解析及相关知识点：
+### 代码解析及相关知识点： 
+主要应用了SCSS语法和compass中的CSS3核心模块和layout模块  
+（1）[compass中的CSS3核心模块](http://compass-style.org/reference/compass/css3/border_radius/)  
+
+
+
