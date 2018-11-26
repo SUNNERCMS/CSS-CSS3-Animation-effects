@@ -15,7 +15,7 @@ body{
   align-items:center;
   background-color:dimgray;/*暗灰色*/
 }
-// 以$size作为基准大小
+// 以$size作为基准大小,SCSS定义变量的方式
 $size:50px;
 // 用来设置底部基座
 .bottom{
