@@ -17,5 +17,5 @@
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/7.bouncing.gif)  
 
 
-未完待续
+未完待续。。。
 
