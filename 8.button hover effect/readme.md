@@ -41,7 +41,7 @@
             width:0.6em;
             height:0.6em;
             background-color:gainsboro;
-            top:calc(50% - 0.3em);
+            top:calc(50% - 0.3em); //计算符号前后要留有空格
             border-radius:50%;
             transition:0.5s cubic-bezier(0.5, -0.5, 0.25, 1.5);
         }
