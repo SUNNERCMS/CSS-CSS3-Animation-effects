@@ -18,7 +18,7 @@
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/7.bouncing.gif)    
 [8.button hover](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/8.button%20hover.gif)  
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/8.button%20hover.gif)     
-[9.bouncing ball](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/9.bouncing%20ball.gif)  
+[9.bouncing ball](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/tree/master/9.bouncing%20ball)  
 ![](https://github.com/SUNNERCMS/CSS-CSS3-Animation-effects/blob/master/animation-gif/9.bouncing%20ball.gif)    
 
 
